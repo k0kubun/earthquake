@@ -40,5 +40,4 @@ pkg
 #
 # For vim:
 #*.swp
-consumer.yml
 Gemfile.lock
